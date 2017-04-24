@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 56d76fe8e7a44ea4582967c7792a48b5
+timeCreated: 1492894472
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cybercrime 2004
+  fontNames:
+  - Cybercrime 2004
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
